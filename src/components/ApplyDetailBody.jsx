@@ -7,6 +7,17 @@ function ApplyDetailBody() {
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-8 max-w-[1010px] mx-auto">
                     <div className=" col-span-2">
 
+                        <div className="py-6">
+                            <a target="_blank" href="https://forms.gle/CnfGmWLPvpVAjhAW8"
+                               className="ms:rounded-lg px-5 rounded border w-full sm:h-10 md:h-14
+                            py-3 font-semibold text-white bg-green-500
+                             hover:bg-green-800 hover:text-white">
+                                <i className="fa-regular fa-paper-plane me-3"></i>Apply Now
+                            </a>
+
+                        </div>
+
+
                         <div className=" space-y-2-">
                             <h5 className="font-medium text-lg sm:text-xl">Marketing Manager</h5>
                             <p className="font-medium- text-sm my-2">Port Harcourt, Nigeria</p>
@@ -166,12 +177,6 @@ function ApplyDetailBody() {
                         </div>
                     </div>
                     <div className="col">
-                        <a target="_blank" href="https://forms.gle/CnfGmWLPvpVAjhAW8"
-                            className="ms:rounded-lg px-5 rounded border w-full sm:h-10 md:h-14
-                            py-3 font-semibold text-gray-100 sm:text-blue-800 bg-slate-800
-                            sm:bg-transparent hover:bg-slate-800 hover:text-white">
-                            <i className="fa-regular fa-paper-plane me-3"></i>Apply for Job
-                        </a>
                         <h5 className="font-medium text-lg sm:text-xl mt-7 mb-2">Job Overview</h5>
                         <div className="border rounded-md border-gray-300 sm:p-5 sm:py-7 px-2 py-4 space-y-4">
                             <div className="flex items-center ">

@@ -38,9 +38,18 @@ function DetailsHero() {
                             <h6 className="text-sm font-bold ">
                                 Marketing Manager, Port Harcourt</h6>
                         </div>
+
+
+
+
                     </div>
+
                 </div>
+
+
             </div>
+
+
         </div>
     )
 }
